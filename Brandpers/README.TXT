@@ -1,2 +1,2 @@
-my first scoring file
+First scoring file
 
